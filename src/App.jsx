@@ -16,12 +16,6 @@ function App() {
         </a>
       </div>
       <h1>Hello Vite + React World!</h1>
-      <div className="card">
-        <p>
-
-        </p>
-      </div>
-
     </>
   )
 }
